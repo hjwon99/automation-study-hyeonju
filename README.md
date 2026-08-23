@@ -1,4 +1,3 @@
-# automation-study-hyeonju
 # Automation Study
 
 - 이름: 원현주
