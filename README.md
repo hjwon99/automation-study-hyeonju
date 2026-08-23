@@ -1,5 +1,5 @@
 # automation-study-hyeonju
-Automation Study
+#Automation Study
 
 - 이름: 원현주
 - 교육 목표: 자동화 테스트 기본 과정 학습
